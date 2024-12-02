@@ -15,4 +15,3 @@ This is a simple Android app developed in Android Studio that fetches content fr
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
